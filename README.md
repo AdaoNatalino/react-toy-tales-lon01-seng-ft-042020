@@ -1,4 +1,3 @@
-# Toy Tales
 
 You've got a friend in need! Again!
 Andy has misplaced of his toys (again) and need your help to organize them.
